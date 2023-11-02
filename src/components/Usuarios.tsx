@@ -1,4 +1,4 @@
-import { Usuario } from "../interfaces/reqRes"
+(import { Usuario } from "../interfaces/reqRes"
 import { useUsuarios } from "../hooks/useUsuarios"
 
 export const Usuarios = () => {
@@ -52,4 +52,4 @@ export const Usuarios = () => {
     </button>
     </>
   )
-}
+})
